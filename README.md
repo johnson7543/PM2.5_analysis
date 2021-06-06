@@ -1,6 +1,5 @@
 # PM2.5_analysis
 ### PM2.5 analysis using pandas and plotly.
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johnson7543/PM2.5_analysis/main?filepath=PM2.5.ipynb)
 
 ### 取得近10年台中市PM2.5日平均值
 
