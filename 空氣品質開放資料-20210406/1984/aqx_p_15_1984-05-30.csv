@@ -1,0 +1,15 @@
+﻿SiteId,SiteName,ItemId,ItemName,ItemEngName,ItemUnit,MonitorDate,MonitorValue00,MonitorValue01,MonitorValue02,MonitorValue03,MonitorValue04,MonitorValue05,MonitorValue06,MonitorValue07,MonitorValue08,MonitorValue09,MonitorValue10,MonitorValue11,MonitorValue12,MonitorValue13,MonitorValue14,MonitorValue15,MonitorValue16,MonitorValue17,MonitorValue18,MonitorValue19,MonitorValue20,MonitorValue21,MonitorValue22,MonitorValue23
+67,三重,1,二氧化硫,SO2,ppb,1984-05-30,43,57,26,19,21,30,39,47,59,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+67,三重,2,一氧化碳,CO,ppm,1984-05-30,7.6,5.1,5.5,4.2,4.3,5.9,7.6,13.1,22.4,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+67,三重,3,臭氧,O3,ppb,1984-05-30,3,3,3,3,3,3,3,3,3,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+67,三重,4,懸浮微粒,PM10,μg/m3,1984-05-30,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+67,三重,5,氮氧化物,NOx,ppb,1984-05-30,35,30,32,25,24,25,26,35,32,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+67,三重,6,一氧化氮,NO,ppb,1984-05-30,54,47,48,42,41,44,45,52,50,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+67,三重,7,二氧化氮,NO2,ppb,1984-05-30,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+67,三重,8,總碳氫化合物,THC,ppm,1984-05-30,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+67,三重,9,非甲烷碳氫化合物,NMHC,ppm,1984-05-30,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+67,三重,10,風速,WIND_SPEED,m/sec,1984-05-30,6,7,10,6,9,9,9,10,10,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+67,三重,11,風向,WIND_DIREC,degrees,1984-05-30,187,236,284,338,310,211,296,28,337,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+67,三重,14,溫度,AMB_TEMP,℃,1984-05-30,24,24,24,24,24,24,24,25,27,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+67,三重,31,甲烷,CH4,ppm,1984-05-30,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+67,三重,38,相對濕度,RH,percent,1984-05-30,54,55,55,55,55,55,54,53,51,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
